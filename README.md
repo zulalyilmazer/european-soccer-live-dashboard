@@ -2,7 +2,7 @@
 
 ### 📱 Canlı Skor Paneli & Akıllı Sürpriz (Upset) Algoritması Arayüzü
 API-Sports üzerinden çekilen canlı maç skorları ile BigQuery veri ambarından (BQ Geçmiş Gol) beslenen tarihsel verilerin harmanlandığı, Streamlit/Gradio tabanlı web uygulaması arayüzü.
-<img src="live_score_panel.png" width="900">
+<img src="live_score_panel.jpg" width="900">
 
 ### 1. Avrupa Futbol Analitiği (Ana Sayfa)
 Avrupa liglerindeki genel durum, toplam maç/gol sayıları ve liglere göre sürpriz maç analizlerinin yer aldığı ana panel.
