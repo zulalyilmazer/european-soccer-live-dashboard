@@ -3,6 +3,7 @@
 Bu proje; Avrupa kulüplerinin maaş yapılarını, kadro derinliklerini ve finansal dağılım metriklerini analiz ederek, hangi takımların tarihsel UCL finalist profiliyle uyuştuğunu tahmin eden veri odaklı bir makine öğrenmesi projesidir. 
 
 Proje kapsamında, dengesiz veri kümesi üzerinde eğitilen yüksek başarımlı bir model ve kullanıcıların kulüpleri simüle edebileceği dinamik bir web arayüzü geliştirilmiştir.
+
 ---
 
 ## 🤖 Makine Öğrenmesi & Model Performansı
